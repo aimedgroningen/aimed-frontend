@@ -68,6 +68,8 @@
 
 This is the official repository for the website of AiMEDAiMED, a student association of the University of Groningen. AiMED aims to bridge the gap between the current status of medical education and the Data Science and AI skills that we will require to stay on the frontline of future medical research. Additionally, AiMED aims to establish inter-faculty communication and collaboration between educators and students.
 
+>Currrent version: 0.0.0
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
