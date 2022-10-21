@@ -1,13 +1,7 @@
 <template>
-    <header>
-        This is a header
-    </header>
+  <header>This is a header</header>
 </template>
 
-<script setup lang="ts">
+<script setup lang="ts"></script>
 
-</script>
-
-<style scoped>
-
-</style>
+<style scoped></style>

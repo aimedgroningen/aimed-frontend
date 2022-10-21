@@ -1,15 +1,10 @@
 <template>
-    <div>
-        <div class="bg-green-500 text-3xl">
-        Hello world! Tailwind works!
-    </div>
-    </div>
+  <div>
+    <div class="bg-green-500 text-3xl">Hello world! Tailwind works!</div>
+  </div>
 </template>
 
-<script setup lang="ts">
+<script setup lang="ts"></script>
 
-</script>
-
-<style scoped>
-
-</style>e
+<style scoped></style>
+e
