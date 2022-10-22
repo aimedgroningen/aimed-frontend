@@ -17,10 +17,10 @@
     <div></div>
 
     <div class="flex h-[30vh] w-full justify-center">
-      <nuxt-img
+      <NuxtImg
         src="/img/blob_doctor.svg"
         alt="Illustration of a doctor"
-      ></nuxt-img>
+      ></NuxtImg>
     </div>
 
     <div
@@ -57,10 +57,10 @@
     </div>
 
     <div class="flex h-[30vh] w-full justify-center">
-      <nuxt-img
+      <NuxtImg
         src="/img/img_sharing.svg"
         alt="Illustration of two people talking about AI"
-      ></nuxt-img>
+      ></NuxtImg>
     </div>
   </section>
 </template>

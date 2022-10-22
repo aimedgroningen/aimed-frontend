@@ -23,7 +23,12 @@
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua.
     </p>
-    <nuxt-link class="button text-lg">BECOME A MEMBER</nuxt-link>
+    <NuxtLink
+      to="https://docs.google.com/forms/d/e/1FAIpQLSfDSZDTvi1tVvczvI88B_terCy0iBb_p2fwutHK5-_sC8lPvg/viewform"
+      target="_blank"
+      class="button text-lg"
+      >BECOME A MEMBER</NuxtLink
+    >
   </main>
 </template>
 
