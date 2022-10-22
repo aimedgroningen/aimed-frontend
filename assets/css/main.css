@@ -10,3 +10,12 @@
 .button {
   @apply cursor-pointer rounded-full bg-accent py-2 px-6 font-bold uppercase text-white  transition-all duration-200 hover:bg-primary;
 }
+
+.mask {
+  -webkit-mask-image: url(img/hero_shape.svg);
+  mask-image: url(~/img/hero_shape.svg);
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  mask-position: top right;
+  mask-size: 120vh;
+}
