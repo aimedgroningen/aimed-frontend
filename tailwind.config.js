@@ -13,7 +13,12 @@ module.exports = {
       display: ["Montserrat", "sans-serif"],
       body: ['"Source Sans Pro"', "sans-serif"],
     },
-    extend: {},
+    extend: {
+      colors: {
+        primary: "#0075FF",
+        accent: "#FF7D00",
+      },
+    },
   },
   plugins: [],
 };
