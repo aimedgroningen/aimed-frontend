@@ -34,10 +34,10 @@
         Medicine.
       </p>
       <div class="mt-7 grid grid-cols-2 gap-2">
-        <div class="button !bg-primary hover:!bg-accent">Knowledge sharing</div>
-        <div class="button">Hackathons</div>
-        <div class="button">Webinars</div>
-        <div class="button !bg-primary hover:!bg-accent">
+        <div class="button !cursor-default !bg-primary">Knowledge sharing</div>
+        <div class="button !cursor-default hover:!bg-accent">Hackathons</div>
+        <div class="button !cursor-default hover:!bg-accent">Webinars</div>
+        <div class="button !cursor-default !bg-primary">
           Machine learning course
         </div>
       </div>
