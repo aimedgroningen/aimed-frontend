@@ -15,11 +15,11 @@
     class="flex h-screen flex-col items-center justify-center gap-5 px-10 md:w-[50%] md:items-start"
   >
     <h1
-      class="text max-w-lg text-center font-display text-3xl font-bold md:text-left"
+      class="text max-w-xl text-center font-display text-4xl font-bold md:text-left"
     >
       Bringing Artificial Intelligence and Medicine together.
     </h1>
-    <p class="max-w-lg text-center md:text-left">
+    <p class="max-w-xl text-center font-body text-lg md:text-left">
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua.
     </p>
