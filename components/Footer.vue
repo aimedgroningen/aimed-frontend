@@ -4,8 +4,8 @@
   >
     <h3>© 2022 AiMED</h3>
     <div class="flex justify-between gap-5">
-      <h3>Privacy Policy</h3>
-      <h3>Sitemap</h3>
+      <nuxt-link to="#">Privacy Policy</nuxt-link>
+      <nuxt-link to="#">Sitemap</nuxt-link>
     </div>
   </footer>
 </template>
