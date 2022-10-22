@@ -1,6 +1,6 @@
 <template>
   <section
-    class="grid w-screen -translate-y-24 grid-cols-2 gap-10 px-10 font-body"
+    class="grid w-screen -translate-y-24 gap-10 px-10 font-body md:grid-cols-2"
   >
     <div class="rounded-3xl border py-10 px-10 shadow-lg shadow-neutral-500">
       <h1 class="font-display font-bold">Who are we?</h1>
