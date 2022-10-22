@@ -4,11 +4,11 @@
 @tailwind utilities;
 
 .button-outline {
-  @apply cursor-pointer rounded-full border-2 py-2 px-6 font-bold uppercase transition-all duration-200 hover:bg-white hover:text-primary;
+  @apply flex cursor-pointer items-center justify-center rounded-full border-2 py-2 px-6 text-center font-bold uppercase transition-all duration-200 hover:bg-white hover:text-primary;
 }
 
 .button {
-  @apply cursor-pointer rounded-full bg-accent py-2 px-6 font-bold uppercase text-white  transition-all duration-200 hover:bg-primary;
+  @apply flex cursor-pointer items-center justify-center rounded-full bg-accent py-2 px-6  text-center font-bold uppercase text-white transition-all duration-200 hover:bg-primary;
 }
 
 .mask {
