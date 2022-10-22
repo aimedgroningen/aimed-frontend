@@ -9,7 +9,16 @@ module.exports = {
     "./app.vue",
   ],
   theme: {
-    extend: {},
+    fontFamily: {
+      display: ["Montserrat", "sans-serif"],
+      body: ['"Source Sans Pro"', "sans-serif"],
+    },
+    extend: {
+      colors: {
+        primary: "#0075FF",
+        accent: "#FF7D00",
+      },
+    },
   },
   plugins: [],
 };
