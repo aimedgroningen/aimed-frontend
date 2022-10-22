@@ -9,6 +9,7 @@
     "prepare": "husky install"
   },
   "devDependencies": {
+    "@nuxt/image-edge": "^1.0.0-27769790.4b27db3",
     "autoprefixer": "^10.4.12",
     "husky": "^8.0.1",
     "lint-staged": "^13.0.3",
