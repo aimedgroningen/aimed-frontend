@@ -33,9 +33,9 @@
     <a href="https://aimedgroningen.com"><strong>Visit the website! »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/aimedgroningen/aimed-frontend/issues">Report Bug</a>
+    <a href="https://github.com/aimedgroningen/aimed-frontend/issues/new/choose">Report Bug</a>
     ·
-    <a href="https://github.com/aimedgroningen/aimed-frontend/issues">Request Feature</a>
+    <a href="https://github.com/aimedgroningen/aimed-frontend/issues/new/choose">Request Feature</a>
   </p>
 </div>
 
@@ -71,7 +71,7 @@
 
 This is the official repository for the website of AiMED, a student association of the University of Groningen. AiMED aims to bridge the gap between the current status of medical education and the Data Science and AI skills that we will require to stay on the frontline of future medical research. Additionally, AiMED aims to establish inter-faculty communication and collaboration between educators and students.
 
-> Currrent version: 0.0.1
+> Currrent version: 0.1.0
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -149,10 +149,9 @@ npm run dev
 
 ## Roadmap
 
-- [x] Add Readme
+- [x] Minium Viable Product
+- [ ] Work out license
 - [ ] Settle Figma design
-- [ ] Make Minimal landing page to have something nice on the website while we work
-- [ ] Minium Viable Product
 
 See the [open issues][issues-url] for a full list of proposed features (and known issues).
 
