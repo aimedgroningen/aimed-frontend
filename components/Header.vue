@@ -20,7 +20,7 @@
       target="_blank"
     >
       <div
-        class="font- flex w-screen justify-center bg-accent py-1 font-body font-bold text-white"
+        class="font- flex w-screen justify-center bg-accent py-1 text-center font-body font-bold text-white"
       >
         Issue with the website or suggestion for a new feature? Press here!
       </div>
