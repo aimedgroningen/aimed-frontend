@@ -20,8 +20,9 @@
       Bringing Artificial Intelligence and Medicine together.
     </h1>
     <p class="max-w-xl text-center font-body text-lg md:text-left">
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+      Join the community of future medics who are shaping the future of
+      healthcare to bring education and opportunities related to AI to medical
+      students, young researchers and healthcare professionals.
     </p>
     <NuxtLink
       to="https://docs.google.com/forms/d/e/1FAIpQLSfDSZDTvi1tVvczvI88B_terCy0iBb_p2fwutHK5-_sC8lPvg/viewform"
