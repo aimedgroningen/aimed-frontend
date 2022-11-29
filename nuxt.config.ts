@@ -1,12 +1,32 @@
-// https://v3.nuxtjs.org/api/configuration/nuxt.config
+// https://nuxt.com/docs/api/configuration/nuxt-config
+import IconsResolver from 'unplugin-icons/resolver'
+import UnpluginComponentsVite from 'unplugin-vue-components/vite'
+
 export default defineNuxtConfig({
-  typescript: { shim: false },
-  postcss: {
-    plugins: {
-      tailwindcss: {},
-      autoprefixer: {},
-    },
+  typescript: { shim: false, strict: true, typeCheck: true },
+  modules: [
+    'unplugin-icons/nuxt',
+    '@pinia/nuxt',
+    '@nuxt/content',
+    '@vueuse/nuxt',
+    'nuxt-windicss',
+    'nuxt-headlessui',
+  ],
+  headlessui: {
+    prefix: '',
   },
-  css: ["@/assets/css/main.css"],
-  modules: ["@nuxt/image-edge"],
-});
+  components: true,
+  // vite plugins
+  vite: {
+    plugins: [
+      UnpluginComponentsVite({
+        dts: true,
+        resolvers: [
+          IconsResolver({
+            prefix: 'Icon',
+          }),
+        ],
+      }),
+    ],
+  },
+})
